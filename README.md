@@ -9,7 +9,7 @@ Now your text will be encoded and decoded. Additionally you will see the playfai
 
 
 
-
+<code>
 
 
 
@@ -69,7 +69,7 @@ Decoded text: ILOVEYOU<br>
 
 
 
-
+</code>
 
 
 
