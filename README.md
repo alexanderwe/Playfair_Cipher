@@ -8,12 +8,7 @@ Type in command line to execute the program:  <b>java -jar playfairchiffre.jar "
 Now your text will be encoded and decoded. Additionally you will see the playfair-matrix with your given key to analyse how the playfair-chifre work. <br>
 
 
-
-<code>
-
-
-
-
+#Sample output
 &nbsp;&nbsp;  0 1 2 3 4  
 
 0   S U R P I <br>
@@ -66,11 +61,6 @@ ____________Outputs_____________<br>
 <br>
 Encoded text: DTMXCVNR<br>
 Decoded text: ILOVEYOU<br>
-
-
-
-</code>
-
 
 
 
