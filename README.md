@@ -1,4 +1,4 @@
-# Playfair_Chiffre
+# Playfair_Cipher
 Just a small simple playfair java program.
 
 # Run the jar-File
